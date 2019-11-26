@@ -272,15 +272,6 @@ let datafile = {
                             "name": "user_id",
                             "match": "exact"
                         }
-                    ],
-                    [
-                        "or",
-                        {
-                            "value": "@reshopper.com",
-                            "type": "custom_attribute",
-                            "name": "email",
-                            "match": "substring"
-                        }
                     ]
                 ]
             ],
