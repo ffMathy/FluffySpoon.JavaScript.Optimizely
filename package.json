@@ -42,6 +42,6 @@
         ]
     },
     "dependencies": {
-        "murmurhash": "0.0.2"
+        "murmurhash": "2.0.0"
     }
 }
